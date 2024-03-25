@@ -1,0 +1,414 @@
+body {background-color: #e5e5e5; font: 13px/21px Arial;}
+.temiz {clear: both;}
+
+/* Genel */
+#genel {width: 1030px; margin: 20px auto; background-color: #fff; border: 1px solid #cfcfcf;
+border-radius: 8px;
+-webkit-border-radius: 8px; 
+-moz-border-radius: 8px; }
+
+	/* Header */
+	#genel header {
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 0%, #e9e9e9 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e9e9e9)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#e9e9e9 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 0%,#e9e9e9 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 0%,#e9e9e9 100%); /* IE10+ */
+	background: linear-gradient(top,  #ffffff 0%,#e9e9e9 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e9e9e9',GradientType=0 ); /* IE6-9 */
+	padding: 5px; margin: 2px; overflow: auto;}
+	
+		/* Logo */
+		#logo {padding: 5px; float: left;}
+		
+		/* Üst Sağ */
+		#uSag {padding: 5px; float: right;}
+		#uSag li {margin: 10px 5px;}
+		#uSag li img{vertical-align: top; margin-left: 4px;}
+		#uSag li span {font-size: 13px;}
+		#uSag li span a{font-weight: bold; color: #4f4f4f;}
+		#uSag li select {border: 1px solid #cfcfcf;
+		border-radius: 5px;
+		-webkit-border-radius: 5px; 
+		-moz-border-radius: 5px; }
+		#uSag li button {background: #f15f05; /* Old browsers */
+		background: -moz-linear-gradient(top,  #f15f05 0%, #c93b00 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f15f05), color-stop(100%,#c93b00)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #f15f05 0%,#c93b00 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #f15f05 0%,#c93b00 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #f15f05 0%,#c93b00 100%); /* IE10+ */
+		background: linear-gradient(top,  #f15f05 0%,#c93b00 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f15f05', endColorstr='#c93b00',GradientType=0 ); /* IE6-9 */
+		padding: 4px 7px; color: #fff; text-shadow: 1px 1px #694434; border: 1px solid #f25f05; cursor: pointer;
+		border-radius: 5px;
+		-webkit-border-radius: 5px; 
+		-moz-border-radius: 5px; }
+	
+	
+	/* İç Kısım */
+	#genel section {border-top: 1px solid #cfcfcf; padding: 5px; overflow: auto;}
+	
+		/* Menü */
+		#menu {padding: 10px; overflow: auto;
+		background: #f26005; /* Old browsers */
+		background: -moz-linear-gradient(top,  #f15f05 0%, #F4B79F 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0509F2), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #f15f05 0%,#F4B79F 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #f15f05 0%,#F4B79F 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #f15f05 0%,#F4B79F 100%); /* IE10+ */
+		background: linear-gradient(top,  #f15f05 0%,#F4B79F 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f15f05', endColorstr='#F4B79F',GradientType=0 ); /* IE6-9 */
+		border-radius: 5px;
+		-webkit-border-radius: 5px; 
+		-moz-border-radius: 5px; }
+		#menu ul li {float: left; margin-right: 10px; border-right: 1px solid #FFFFFF; padding: 3px 15px;}
+		#menu ul li a{font-size: 13px; color: #fff; font-weight: bold; text-transform: capitalize; text-decoration: none;}
+		#menu ul li:hover a{text-decoration: underline;}
+		
+			
+		
+		/* Sol Sidebar */
+		/*aside {width: 200px;}*/
+		#sol {float: left;width: 200px}
+		.bilesen {margin: 10px 0; border: 1px solid #cfcfcf;
+		border-radius: 5px;
+		-webkit-border-radius: 5px; 
+		-moz-border-radius: 5px; }
+		.bilesen div {margin: 1px; padding: 5px 15px;
+		background: #ffffff; /* Old browsers */
+		background: -moz-linear-gradient(top,  #ffffff 0%, #f2f6f9 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f2f6f9)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #ffffff 0%,#f2f6f9 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #ffffff 0%,#f2f6f9 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #ffffff 0%,#f2f6f9 100%); /* IE10+ */
+		background: linear-gradient(top,  #ffffff 0%,#f2f6f9 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f6f9',GradientType=0 ); /* IE6-9 */
+		}
+		.bilesen hgroup h2 {background: url("../images/ikonB.png")no-repeat left; padding: 10px 20px; color: #4f4f4f; font-size: 13px;}
+		
+			/* Kategoriler */
+			ul#kategoriler {overflow: auto; border-top: 1px solid #cfcfcf; padding: 10px;}
+			ul#kategoriler li{border-bottom: 1px solid #cfcfcf; padding: 6px 10px;}
+			ul#kategoriler li a{font-size: 12px; background: url("../images/ikonli.png")no-repeat left; padding: 8px 25px; color: #797979; text-decoration: none;}
+			ul#kategoriler li:hover a{color: #000; text-decoration: underline; }
+			
+			/* En Çok Satan */
+			ul#encoksatan {overflow: auto; border-top: 1px solid #cfcfcf; padding: 10px;}
+			ul#encoksatan li{list-style: decimal; padding: 6px 0px; margin-left: 25px; font-size: 12px; color: #797979; font-weight: bold;}
+			ul#encoksatan li a{font-size: 12px; color: #76b013; text-decoration: none; font-weight: normal;}
+			ul#encoksatan li:hover a{color: #000; text-decoration: underline;}
+			
+			/* Reklam */
+			#reklam {margin: 1px;}
+			
+		/* Sağ Sidebar */
+		#sag {float: right;width:240px;}
+		
+			/* Kullanıcı Girişi */
+			#kGirisi {overflow: auto;  padding: 5px;}
+			#kGirisi span{width: 180px; float: left; padding: 3px 0px 1px 0px; color: #464545; font-size: 12px; margin-top: 3px;}
+			#kGirisi span .kontrol{border: 1px solid #e3e3e3; padding: 3px 4px; color: #797979;
+			border-radius: 3px;
+			-webkit-border-radius: 3px; 
+			-moz-border-radius: 3px; }
+			#kGirisi span .gbuton{float: right; padding: 3px 9px; color: #fff; text-shadow: 1px 1px #6a4534; font-weight: bold; cursor: pointer;
+			background: #f26005; /* Old browsers */
+			background: -moz-linear-gradient(top,  #f26005 0%, #c63800 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26005), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #f26005 0%,#c63800 100%); /* IE10+ */
+			background: linear-gradient(top,  #f26005 0%,#c63800 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26005', endColorstr='#c63800',GradientType=0 ); /* IE6-9 */
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; }
+			#kGirisi span  input[type=checkbox]{vertical-align: middle; margin-right: 3px; margin-top: 3px;}
+			#kGirisi span a#benihatirla {color: #76b013; text-decoration: underline;}
+			span a#sifremiunuttum {margin-top: 10px;}
+			span#hesapAc {margin-top: 10px; color: #76b013;}
+			#kGirisi span a{color: #797979; font-size: 12px;}
+			
+			/* Firmalar */
+			#firma {overflow: auto; border-top: 1px solid #cfcfcf; padding: 5px;}
+			#firma span{width: 180px; float: left; font-size: 12px; padding: 3px 5px;}
+			#firma select{width: 180px; padding: 3px 5px;}
+			
+			
+			
+				/* Fiyat Kısmı */
+				.fiyatKismi {margin: 10px 5px 0 5px; border: 1px solid #cfcfcf; padding: 5px; overflow: auto;
+					border-radius: 5px;
+					-webkit-border-radius: 5px; 
+					-moz-border-radius: 5px; }
+					.fiyat {width: 75px; float: left; border-right: 1px dashed #ddd; padding-right: 10px;}
+					.fiyat span{font-size: 11px; color: #c83b00;}
+					.fiyat p{text-decoration: line-through; font-size: 10px; color: #353434; margin: 2px 0;}
+					.fiyat h4{font-size: 18px; color: #c83b00;}
+				#detayy{
+					border: 1px solid;
+				}
+				/* İç Detay */
+				.detay {width: 70px; float: right; margin: 0px 5px;}
+					.detay  span{font-size: 11px; color: #c83b00;}
+					.detay  input#sepeteEkle{color: #fff; padding: 4px 9px; font-size: 12px; width: 70px; cursor: pointer; border: none; margin-top: 9px;
+					background: #84c11c; /* Old browsers */
+					background: -moz-linear-gradient(top,  #84c11c 0%, #66b200 100%); /* FF3.6+ */
+					background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#84c11c), color-stop(100%,#66b200)); /* Chrome,Safari4+ */
+					background: -webkit-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* Chrome10+,Safari5.1+ */
+					background: -o-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* Opera 11.10+ */
+					/*background: -ms-linear-gradient(top,  #84c11c 0%,#66b200 100%);  IE10+ */
+					background: linear-gradient(top,  #84c11c 0%,#66b200 100%); /* W3C */
+					/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#84c11c', endColorstr='#66b200',GradientType=0 );IE6-9 */
+					border-radius: 5px;
+					-webkit-border-radius: 5px; 
+					-moz-border-radius: 5px; }
+					
+		
+		/* İçerik */
+		#icerik {width: 548px; float: left; margin: 10px;}
+		
+			/* Manşet */
+			#manset {border: 1px solid #cfcfcf; overflow: auto; padding: 1px;
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; }
+			
+				/* Manşet Sol */
+				#mSol {width: 280px; float: left;}
+					#mSol hgroup h1 {padding: 10px 10px 0 10px; font-size: 20px; color: #2d2d2d; margin: 10px 15px 0px 15px;}
+					#mSol .aciklama {color: #76b013; font-size: 11px; padding: 5px; text-transform: uppercase; margin: 0 8px;}
+					#mSol span {font-size: 12px; color: #353434; width: 170px; float: left; padding: 5px; margin: 10px 10px 0 10px;}
+					#mSol span h3{color: #c83b00; float: right; font-size: 22px; margin-top: -6px;}
+					#mSol span p{font-size: 12px; color: #353434; float: right; text-decoration: line-through;}
+					#mSol #incele {color: #fff; border: none; padding: 8px 8px; cursor: pointer; margin: 15px 10px;
+					background: #84c11c; /* Old browsers */
+					background: -moz-linear-gradient(top,  #84c11c 0%, #66b200 100%); /* FF3.6+ */
+					background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#84c11c), color-stop(100%,#66b200)); /* Chrome,Safari4+ */
+					background: -webkit-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* Chrome10+,Safari5.1+ */
+					background: -o-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* Opera 11.10+ */
+					background: -ms-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* IE10+ */
+					background: linear-gradient(top,  #84c11c 0%,#66b200 100%); /* W3C */
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#84c11c', endColorstr='#66b200',GradientType=0 ); /* IE6-9 */
+					border-radius: 5px;
+					-webkit-border-radius: 5px; 
+					-moz-border-radius: 5px; 
+					width :90px ;
+					
+					}
+					#mSol a{text-decoration:none;}
+				
+				/* Manşet Sağ */
+				#mSag {width: 250px; float: right; padding: 1px;}
+				#mSag a figure img{width: 250px; float: left;}
+			
+			/* Yeni Ürünler */
+			#yeniler {overflow: auto;}
+			#yeniler  hgroup h2 {background: url("../images/ikonB.png")no-repeat left; padding: 10px 20px; color: #4f4f4f; font-size: 13px; margin: 5px 10px;}
+				
+				/* Ürün */
+				.urun {width: 240px; height: 320px; float: left; padding: 5px; overflow: auto; border: 1px solid #cfcfcf; margin: 5px 10px;
+					border-radius: 5px;
+					-webkit-border-radius: 5px; 
+					-moz-border-radius: 5px; }
+				.urun h1 {color: #2d2d2d; width: 200px; margin: 5px auto; font-size: 15px; text-align: center; padding: 5px;}
+				.urun a figure{width: 230px; height: 180px; margin: 0px auto; text-align: center;}
+				.urun .fiyat {padding-right: 30px;}
+                .urun a{text-decoration:none;}
+                
+                #uincele {color: #fff; border: none; padding: 8px 8px; cursor: pointer; margin: 15px 10px;
+					background: #84c11c; /* Old browsers */
+					background: -moz-linear-gradient(top,  #84c11c 0%, #66b200 100%); /* FF3.6+ */
+					background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#84c11c), color-stop(100%,#66b200)); /* Chrome,Safari4+ */
+					background: -webkit-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* Chrome10+,Safari5.1+ */
+					background: -o-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* Opera 11.10+ */
+					background: -ms-linear-gradient(top,  #84c11c 0%,#66b200 100%); /* IE10+ */
+					background: linear-gradient(top,  #84c11c 0%,#66b200 100%); /* W3C */
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#84c11c', endColorstr='#66b200',GradientType=0 ); /* IE6-9 */
+					border-radius: 5px;
+					-webkit-border-radius: 5px; 
+					-moz-border-radius: 5px; 
+					width :40px ;
+					
+					}
+					
+					#utukendi {color: #fff; border: none; padding: 8px 8px; cursor: pointer; margin: 15px 10px;
+					background: #DF371D; /* Old browsers */
+					background: -moz-linear-gradient(top,  #DF371D 0%, #851908 100%); /* FF3.6+ */
+					background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#DF371D), color-stop(100%,#851908)); /* Chrome,Safari4+ */
+					background: -webkit-linear-gradient(top,  #DF371D 0%,#851908 100%); /* Chrome10+,Safari5.1+ */
+					background: -o-linear-gradient(top,  #DF371D 0%,#851908 100%); /* Opera 11.10+ */
+					background: -ms-linear-gradient(top,  #DF371D 0%,#851908 100%); /* IE10+ */
+					background: linear-gradient(top,  #DF371D 0%,#851908 100%); /* W3C */
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DF371D', endColorstr='#851908',GradientType=0 ); /* IE6-9 */
+					border-radius: 5px;
+					-webkit-border-radius: 5px; 
+					-moz-border-radius: 5px; 
+					width :40px ;
+					
+					}
+                #uincelea {text-decoration :none;}
+	/* Footer */
+	#genel footer {background: #f0f0f0; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f0f0f0 0%, #ffffff 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0f0f0), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f0f0f0 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f0f0f0 0%,#ffffff 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f0f0f0 0%,#ffffff 100%); /* IE10+ */
+	background: linear-gradient(top,  #f0f0f0 0%,#ffffff 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0f0', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	overflow: auto; padding: 1px; margin: 12px; border: 1px solid #cfcfcf; 
+	border-radius: 5px;
+	-webkit-border-radius: 5px; 
+	-moz-border-radius: 5px; }
+	#fSol {width: 300px; float: left;}
+	#fSol a img{width: 70px; height: 40px; float: left; margin-right: 10px; padding: 5px;}
+	#fSag {width: 450px; float: right; overflow: auto; padding: 1px; margin-bottom: 5px;}
+	ul#fMenu {overflow: auto; padding: 10px;}
+	ul#fMenu li{float: left; margin-right: 10px; border-right: 1px solid #797979; padding: 3px 12px;}
+	ul#fMenu li a{text-decoration: none; color: #535151; font-size: 12px;}
+	ul#fMenu li:hover a{text-decoration: underline;}
+	#fSag span {font-size: 11px; color: #797979; margin-right: -13px;}
+	
+	
+	/* Kayit */
+	
+
+			#kKayit {overflow: auto; border-top: 1px solid #cfcfcf; padding: 5px;}
+			#kKayit span{width: 180px; float: left; padding: 3px 0px 1px 0px; color: #464545; font-size: 12px; margin-top: 3px;}
+			#kKayit span input{border: 1px solid #e3e3e3; padding: 3px 4px; color: #797979;
+			border-radius: 3px;
+			-webkit-border-radius: 3px; 
+			-moz-border-radius: 3px; }
+			#kKayit span textarea{border: 1px solid #e3e3e3; padding: 3px 4px; color: #797979;
+			border-radius: 3px;
+			-webkit-border-radius: 3px; 
+			-moz-border-radius: 3px; }
+			#kKayit span input[type=submit]{float: right; padding: 3px 9px; color: #fff; text-shadow: 1px 1px #6a4534; font-weight: bold; cursor: pointer;
+			background: #f26005; /* Old browsers */
+			background: -moz-linear-gradient(top,  #f26005 0%, #c63800 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26005), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #f26005 0%,#c63800 100%); /* IE10+ */
+			background: linear-gradient(top,  #f26005 0%,#c63800 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26005', endColorstr='#c63800',GradientType=0 ); /* IE6-9 */
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; }
+			
+			#kKayit span input[type=reset]{float: right; padding: 3px 9px; color: #fff; text-shadow: 1px 1px #6a4534; font-weight: bold; cursor: pointer;
+			background: #f26005; /* Old browsers */
+			background: -moz-linear-gradient(top,  #f26005 0%, #c63800 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26005), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #f26005 0%,#c63800 100%); /* IE10+ */
+			background: linear-gradient(top,  #f26005 0%,#c63800 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26005', endColorstr='#c63800',GradientType=0 ); /* IE6-9 */
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; }
+			
+			#vali {width: 180px; float: left; padding: 3px 0px 1px 0px; color: #464545; font-size: 12px; margin-top: 3px;}
+			
+/* Detay */
+			#detay {border: 1px solid #cfcfcf; overflow: auto; padding: 1px;
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; }
+			
+				/* Detay Sol */
+				#dSol {width: 280px; float: left;}
+					#dSol hgroup h1 {padding: 10px 10px 0 10px; font-size: 20px; color: #2d2d2d; margin: 10px 15px 0px 15px;}
+					#dSol .aciklama {color: #76b013; font-size: 11px; padding: 5px; text-transform: uppercase; margin: 0 8px;}
+					#dSol span {font-size: 12px; color: #353434; width: 170px; float: left; padding: 5px; margin: 10px 10px 0 10px;}
+					#dSol span h3{color: #c83b00; float: right; font-size: 22px; margin-top: -6px;}
+					#dSol span p{font-size: 12px; color: #353434; float: right; text-decoration: line-through;}
+					
+				
+				/* Detay Sağ */
+				#dSag {width: 250px; float: right; padding: 1px;}
+				#dSag a figure img{width: 250px; float: left;}
+				
+				#detay h3{color: #c83b00; font-size: 22px; margin-top: -6px;}
+				#ozellik {color: #76b013; font-size: 11px; margin-top :10px;}
+				
+/*  Sepet   */
+
+#sepet {overflow: auto; border-top: 1px solid #cfcfcf; padding: 10px; }
+			#sepet li{text-align :center ;border-bottom: 1px solid #cfcfcf; padding: 6px 10px;font-size: 12px; padding: 8px 25px; color: #797979; text-decoration: none;}
+		
+			#sepet+input[type=submit]{margin: 0 %100 0 %100; color: #fff; text-shadow: 1px 1px #6a4534; font-weight: bold; cursor: pointer;
+			background: #f26005; /* Old browsers */
+			background: -moz-linear-gradient(top,  #f26005 0%, #c63800 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26005), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #f26005 0%,#c63800 100%); /* IE10+ */
+			background: linear-gradient(top,  #f26005 0%,#c63800 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26005', endColorstr='#c63800',GradientType=0 ); /* IE6-9 */
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; 
+			
+			}
+			
+			#sepet+input[type=submit]+input[type=submit]{margin: 0 %100 0 %100; color: #fff; text-shadow: 1px 1px #6a4534; font-weight: bold; cursor: pointer;
+			background: #f26005; /* Old browsers */
+			background: -moz-linear-gradient(top,  #f26005 0%, #c63800 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26005), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #f26005 0%,#c63800 100%); /* IE10+ */
+			background: linear-gradient(top,  #f26005 0%,#c63800 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26005', endColorstr='#c63800',GradientType=0 ); /* IE6-9 */
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; 
+			
+			}
+			/* iletisim*/
+			#iletisim {overflow: auto; border-top: 1px solid #cfcfcf; padding: 5px;}
+			
+			#iletisim { margin:auto;}
+			#iletisim #buyuk {color: #c83b00; font-size: 22px; font-weight:bold; font-style :italic; margin-top :10px;}
+			#iletisim #aciklama {color: #76b013; font-size: 11px; margin-top :30px; padding: 0 10px 0 10px;}
+			
+		
+/* ADMİN PANELİİİ */
+#admin {margin-left :auto;}
+#admin #buyuk {color: #c83b00; font-size: 22px; font-weight:bold; font-style :italic; margin-top :10px;}
+#admin #yazi{color: #76b013; font-size: 24px; margin-top :30px; padding: 0 10px 0 10px;}
+#admin .data{color: #76b013; font-size: 16px; }
+#admin #yazi input[type=text],input[type=password],textarea,select{border: 1px solid #e3e3e3; padding: 3px 4px; color: #797979;
+			border-radius: 3px;
+			-webkit-border-radius: 3px; 
+			-moz-border-radius: 3px; }
+#admin #yazi input[type=submit],input[type=button],input[type=file],.butt{margin: 0 %100 0 %100; color: #fff; text-shadow: 1px 1px #6a4534; font-weight: bold; cursor: pointer;
+			background: #f26005; /* Old browsers */
+			background: -moz-linear-gradient(top,  #f26005 0%, #c63800 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26005), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #f26005 0%,#c63800 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #f26005 0%,#c63800 100%); /* IE10+ */
+			background: linear-gradient(top,  #f26005 0%,#c63800 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26005', endColorstr='#c63800',GradientType=0 ); /* IE6-9 */
+			border-radius: 5px;
+			-webkit-border-radius: 5px; 
+			-moz-border-radius: 5px; 
+			
+			}
+
+#det {
+	background-color: red;
+	width: 1000px;
+	height: 100px;
+	color: red;
+}
+#dso {
+	background-color: blue;
+	width: 50px;
+	height: 50px;
+}

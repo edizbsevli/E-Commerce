@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|c:\\users\\edizb\\desktop\\d\u00F6nem \u0130\u00E7i projeler\\e-ticaret\\eticaret\\eticaret\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\admin panel\\admindefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\admin panel\\admindefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\admin panel\\kullanicirol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\admin panel\\kullanicirol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\odemebasaril.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\odemebasaril.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\kartbilgi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\kartbilgi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\sepett.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\sepett.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/EDIZ_SQLEXPRESS/eticaret_web/True/SqlTable/dbo.aspnet_Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\css\\stil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\css\\stil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\css\\stil2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\css\\stil2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\urunler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\urunler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\girisyap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\girisyap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\admin panel\\adminurun.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\admin panel\\adminurun.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\stil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\stil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\urunler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\urunler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\eticaret\\admin panel\\kullanicirol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFBE1A9-D6F5-4BE4-B68D-A659E31427E9}|Eticaret\\Eticaret.csproj|solutionrelative:eticaret\\admin panel\\kullanicirol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "odemebasaril.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\odemebasaril.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\odemebasaril.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\odemebasaril.aspx",
+              "RelativeToolTip": "Eticaret\\odemebasaril.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-02-13T18:56:57.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admindefault.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\admindefault.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\Admin Panel\\admindefault.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\admindefault.aspx",
+              "RelativeToolTip": "Eticaret\\Admin Panel\\admindefault.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-02-13T18:51:02.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "stil2.css",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\css\\stil2.css",
+              "RelativeDocumentMoniker": "Eticaret\\css\\stil2.css",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\css\\stil2.css",
+              "RelativeToolTip": "Eticaret\\css\\stil2.css",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAvwAcBAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-13T18:51:02.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "stil.css",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\css\\stil.css",
+              "RelativeDocumentMoniker": "Eticaret\\css\\stil.css",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\css\\stil.css",
+              "RelativeToolTip": "Eticaret\\css\\stil.css",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAvwNkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-13T18:51:02.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "master.Master",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\master.Master",
+              "RelativeDocumentMoniker": "Eticaret\\master.Master",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\master.Master",
+              "RelativeToolTip": "Eticaret\\master.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-13T18:51:02.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "master.Master.cs",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\master.Master.cs",
+              "RelativeDocumentMoniker": "Eticaret\\master.Master.cs",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\master.Master.cs",
+              "RelativeToolTip": "Eticaret\\master.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-13T18:51:02.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "urunler.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\urunler.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\urunler.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\urunler.aspx",
+              "RelativeToolTip": "Eticaret\\urunler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-02-13T18:51:02.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\default.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\default.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\default.aspx",
+              "RelativeToolTip": "Eticaret\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-13T18:51:02.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\default.aspx.cs",
+              "RelativeDocumentMoniker": "Eticaret\\default.aspx.cs",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\default.aspx.cs",
+              "RelativeToolTip": "Eticaret\\default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T18:51:02.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kartbilgi.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\kartbilgi.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\kartbilgi.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\kartbilgi.aspx",
+              "RelativeToolTip": "Eticaret\\kartbilgi.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-02-13T18:59:07.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kullanicirol.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\kullanicirol.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\Admin Panel\\kullanicirol.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\kullanicirol.aspx",
+              "RelativeToolTip": "Eticaret\\Admin Panel\\kullanicirol.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-02-13T18:51:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.aspnet_Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/EDIZ_SQLEXPRESS/eticaret_web/True/SqlTable/dbo.aspnet_Users.sql",
+              "ToolTip": "dbo.aspnet_Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-13T18:53:42.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sepett.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\sepett.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\sepett.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\sepett.aspx",
+              "RelativeToolTip": "Eticaret\\sepett.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-02-13T18:56:44.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "kullanicirol.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\kullanicirol.aspx.cs",
+              "RelativeDocumentMoniker": "Eticaret\\Admin Panel\\kullanicirol.aspx.cs",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\kullanicirol.aspx.cs",
+              "RelativeToolTip": "Eticaret\\Admin Panel\\kullanicirol.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-13T18:51:02.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "urunler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\urunler.aspx.cs",
+              "RelativeDocumentMoniker": "Eticaret\\urunler.aspx.cs",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\urunler.aspx.cs",
+              "RelativeToolTip": "Eticaret\\urunler.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-13T18:51:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "adminurun.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\adminurun.aspx.cs",
+              "RelativeDocumentMoniker": "Eticaret\\Admin Panel\\adminurun.aspx.cs",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\Admin Panel\\adminurun.aspx.cs",
+              "RelativeToolTip": "Eticaret\\Admin Panel\\adminurun.aspx.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAuwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-02-13T18:51:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GirisYap.aspx",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\GirisYap.aspx",
+              "RelativeDocumentMoniker": "Eticaret\\GirisYap.aspx",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\GirisYap.aspx",
+              "RelativeToolTip": "Eticaret\\GirisYap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-02-13T18:51:02.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "stil.css",
+              "DocumentMoniker": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\stil.css",
+              "RelativeDocumentMoniker": "Eticaret\\stil.css",
+              "ToolTip": "C:\\Users\\edizb\\Desktop\\D\u00F6nem \u0130\u00E7i Projeler\\E-Ticaret\\Eticaret\\Eticaret\\stil.css",
+              "RelativeToolTip": "Eticaret\\stil.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-13T18:51:02.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

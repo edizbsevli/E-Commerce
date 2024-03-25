@@ -1,0 +1,612 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#foto img {
+    height: 150px;
+    width: 150px;
+}
+#fotu img {
+    height: 350px;
+    width: 1300px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #444;
+    padding: 10px;
+}
+.asagi {
+    display: flex;
+    justify-content: space-around;
+    background-color: #444;
+    padding: 10px;
+}
+
+/* Genel link stillemesi */
+.a {
+    text-decoration: none; /* Alt çizgiyi kaldırma */
+    color: white; /* Link rengi */
+    margin-right: 10px;
+}
+
+    /* Ziyaret edilmiş link */
+    .a:visited {
+        color: lightgray; /* Ziyaret edilmiş link rengi */
+    }
+
+    /* Link üzerine gelindiğinde */
+    .a:hover {
+        text-decoration: underline; /* Alt çizgi ekleme */
+        color: lightgray; /* Link üzerine gelindiğindeki renk */
+    }
+
+    /* Tıklanan link durumu */
+    .a:active {
+        color: lightgray; /* Tıklanan link rengi */
+    }
+    
+.b {
+    float:left;
+    text-align:center;
+    text-decoration: none; /* Alt çizgiyi kaldırma */
+    color: white; /* Link rengi */
+}
+
+    /* Ziyaret edilmiş link */
+    .b:visited {
+        color: lightgray; /* Ziyaret edilmiş link rengi */
+    }
+
+    /* Link üzerine gelindiğinde */
+    .b:hover {
+        text-decoration: underline; /* Alt çizgi ekleme */
+        color: lightgray; /* Link üzerine gelindiğindeki renk */
+    }
+
+    /* Tıklanan link durumu */
+    .b:active {
+        color: lightgray; /* Tıklanan link rengi */
+    }
+.auto-style1 {
+    width: 354px;
+    height: 309px;
+}
+.hakki {
+    align-content: center;
+    text-align: center;
+    margin-left: 130px;
+}
+aside {
+    width: 200px;
+    background-color: red;
+    padding: 10px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+.giris {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: auto;
+}
+#sol {
+    float: left;
+    width: 200px
+}
+
+/* Sol Sidebar */
+/*aside {width: 200px;}*/
+#sol {
+    float: left;
+    width: 200px
+}
+
+.bilesen {
+    margin: 10px 0;
+    border: 1px solid #cfcfcf;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+    .bilesen div {
+        margin: 1px;
+        padding: 5px 15px;
+        background: #ffffff; /* Old browsers */
+        background: -moz-linear-gradient(top, #ffffff 0%, #f2f6f9 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f2f6f9)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, #ffffff 0%,#f2f6f9 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, #ffffff 0%,#f2f6f9 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, #ffffff 0%,#f2f6f9 100%); /* IE10+ */
+        background: linear-gradient(top, #ffffff 0%,#f2f6f9 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f6f9',GradientType=0 ); /* IE6-9 */
+    }
+
+    .bilesen hgroup h2 {
+        background: url("../images/ikonB.png")no-repeat left;
+        padding: 10px 20px;
+        color: #4f4f4f;
+        font-size: 13px;
+    }
+
+/* Kategoriler */
+ul#kategoriler {
+    overflow: auto;
+    border-top: 1px solid #cfcfcf;
+    padding: 10px;
+    width: 100px;
+    height: auto;
+}
+
+    ul#kategoriler li {
+        border-bottom: 1px solid #cfcfcf;
+        padding: 6px 10px;
+    }
+
+        ul#kategoriler li a {
+            font-size: 12px;
+            background: url("../images/ikonli.png")no-repeat left;
+            padding: 8px 25px;
+            color: #797979;
+            text-decoration: none;
+        }
+
+        ul#kategoriler li:hover a {
+            color: #000;
+            text-decoration: underline;
+        }
+/* En Çok Satan */
+ul#encoksatan {
+    overflow: auto;
+    border-top: 1px solid #cfcfcf;
+    padding: 10px;
+}
+
+    ul#encoksatan li {
+        list-style: decimal;
+        padding: 6px 0px;
+        margin-left: 25px;
+        font-size: 12px;
+        color: #797979;
+        font-weight: bold;
+    }
+
+        ul#encoksatan li a {
+            font-size: 12px;
+            color: #76b013;
+            text-decoration: none;
+            font-weight: normal;
+        }
+
+        ul#encoksatan li:hover a {
+            color: #000;
+            text-decoration: underline;
+        }
+
+/* Reklam */
+#reklam {
+    margin: 1px;
+}
+
+/* Sağ Sidebar */
+#sag {
+    float: right;
+    width: 240px;
+}
+
+/* Kullanıcı Girişi */
+#kGirisi {
+    overflow: auto;
+    padding: 5px;
+}
+
+    #kGirisi span {
+        width: 180px;
+        float: left;
+        padding: 3px 0px 1px 0px;
+        color: #464545;
+        font-size: 12px;
+        margin-top: 3px;
+    }
+
+        #kGirisi span .kontrol {
+            border: 1px solid #e3e3e3;
+            padding: 3px 4px;
+            color: #797979;
+            border-radius: 3px;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+        }
+
+        #kGirisi span .gbuton {
+            float: right;
+            padding: 3px 9px;
+            color: #fff;
+            text-shadow: 1px 1px #6a4534;
+            font-weight: bold;
+            cursor: pointer;
+            background: #f26005; /* Old browsers */
+            background: -moz-linear-gradient(top, #f26005 0%, #c63800 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26005), color-stop(100%,#c63800)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top, #f26005 0%,#c63800 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top, #f26005 0%,#c63800 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top, #f26005 0%,#c63800 100%); /* IE10+ */
+            background: linear-gradient(top, #f26005 0%,#c63800 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26005', endColorstr='#c63800',GradientType=0 ); /* IE6-9 */
+            border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-border-radius: 5px;
+        }
+
+        #kGirisi span input[type=checkbox] {
+            vertical-align: middle;
+            margin-right: 3px;
+            margin-top: 3px;
+        }
+
+        #kGirisi span a#benihatirla {
+            color: #76b013;
+            text-decoration: underline;
+        }
+
+span a#sifremiunuttum {
+    margin-top: 10px;
+}
+
+span#hesapAc {
+    margin-top: 10px;
+    color: #76b013;
+}
+
+#kGirisi span a {
+    color: #797979;
+    font-size: 12px;
+}
+
+/* Firmalar */
+#firma {
+    overflow: auto;
+    border-top: 1px solid #cfcfcf;
+    padding: 5px;
+}
+
+    #firma span {
+        width: 180px;
+        float: left;
+        font-size: 12px;
+        padding: 3px 5px;
+    }
+
+    #firma select {
+        width: 180px;
+        padding: 3px 5px;
+    }
+
+
+
+/* Fiyat Kısmı */
+.fiyatKismi {
+    margin: 10px 5px 0 5px;
+    border: 1px solid #cfcfcf;
+    padding: 5px;
+    overflow: auto;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.fiyat {
+    width: 75px;
+    float: left;
+    border-right: 1px dashed #ddd;
+    padding-right: 10px;
+}
+
+    .fiyat span {
+        font-size: 11px;
+        color: #c83b00;
+    }
+
+    .fiyat p {
+        text-decoration: line-through;
+        font-size: 10px;
+        color: #353434;
+        margin: 2px 0;
+    }
+
+    .fiyat h4 {
+        font-size: 18px;
+        color: #c83b00;
+    }
+
+/* İç Detay */
+.detay {
+    width: 70px;
+    float: right;
+    margin: 0px 5px;
+}
+
+    .detay span {
+        font-size: 11px;
+        color: #c83b00;
+    }
+
+    .detay input#sepeteEkle {
+        color: #fff;
+        padding: 4px 9px;
+        font-size: 12px;
+        width: 70px;
+        cursor: pointer;
+        border: none;
+        margin-top: 9px;
+        background: #84c11c; /* Old browsers */
+        background: -moz-linear-gradient(top, #84c11c 0%, #66b200 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#84c11c), color-stop(100%,#66b200)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, #84c11c 0%,#66b200 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, #84c11c 0%,#66b200 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, #84c11c 0%,#66b200 100%); /* IE10+ */
+        background: linear-gradient(top, #84c11c 0%,#66b200 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#84c11c', endColorstr='#66b200',GradientType=0 ); /* IE6-9 */
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+    }
+
+
+/* İçerik */
+#icerik {
+    width: 548px;
+    float: left;
+    margin: 10px;
+}
+
+/* Manşet */
+#manset {
+    border: 1px solid #cfcfcf;
+    overflow: auto;
+    padding: 1px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/* Manşet Sol */
+#mSol {
+    width: 280px;
+    float: left;
+}
+
+    #mSol hgroup h1 {
+        padding: 10px 10px 0 10px;
+        font-size: 20px;
+        color: #2d2d2d;
+        margin: 10px 15px 0px 15px;
+    }
+
+    #mSol .aciklama {
+        color: #76b013;
+        font-size: 11px;
+        padding: 5px;
+        text-transform: uppercase;
+        margin: 0 8px;
+    }
+
+    #mSol span {
+        font-size: 12px;
+        color: #353434;
+        width: 170px;
+        float: left;
+        padding: 5px;
+        margin: 10px 10px 0 10px;
+    }
+
+        #mSol span h3 {
+            color: #c83b00;
+            float: right;
+            font-size: 22px;
+            margin-top: -6px;
+        }
+
+        #mSol span p {
+            font-size: 12px;
+            color: #353434;
+            float: right;
+            text-decoration: line-through;
+        }
+
+    #mSol #incele {
+        color: #fff;
+        border: none;
+        padding: 8px 8px;
+        cursor: pointer;
+        margin: 15px 10px;
+        background: #84c11c; /* Old browsers */
+        background: -moz-linear-gradient(top, #84c11c 0%, #66b200 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#84c11c), color-stop(100%,#66b200)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, #84c11c 0%,#66b200 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, #84c11c 0%,#66b200 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, #84c11c 0%,#66b200 100%); /* IE10+ */
+        background: linear-gradient(top, #84c11c 0%,#66b200 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#84c11c', endColorstr='#66b200',GradientType=0 ); /* IE6-9 */
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        width: 90px;
+    }
+
+    #mSol a {
+        text-decoration: none;
+    }
+
+/* Manşet Sağ */
+#mSag {
+    width: 250px;
+    float: right;
+    padding: 1px;
+}
+
+    #mSag a figure img {
+        width: 250px;
+        float: left;
+    }
+
+/* Yeni Ürünler */
+#yeniler {
+    overflow: auto;
+}
+
+    #yeniler hgroup h2 {
+        background: url("../images/ikonB.png")no-repeat left;
+        padding: 10px 20px;
+        color: #4f4f4f;
+        font-size: 13px;
+        margin: 5px 10px;
+    }
+
+/* Ürün */
+.urun {
+    width: 240px;
+    height: 320px;
+    float: left;
+    padding: 5px;
+    overflow: auto;
+    border: 1px solid #cfcfcf;
+    margin: 5px 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+    .urun h1 {
+        color: #2d2d2d;
+        width: 200px;
+        margin: 5px auto;
+        font-size: 15px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .urun a figure {
+        width: 230px;
+        height: 180px;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    .urun .fiyat {
+        padding-right: 30px;
+    }
+
+    .urun a {
+        text-decoration: none;
+    }
+
+#uincele {
+    color: #fff;
+    border: none;
+    padding: 8px 8px;
+    cursor: pointer;
+    margin: 15px 10px;
+    background: #84c11c; /* Old browsers */
+    background: -moz-linear-gradient(top, #84c11c 0%, #66b200 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#84c11c), color-stop(100%,#66b200)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #84c11c 0%,#66b200 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #84c11c 0%,#66b200 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #84c11c 0%,#66b200 100%); /* IE10+ */
+    background: linear-gradient(top, #84c11c 0%,#66b200 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#84c11c', endColorstr='#66b200',GradientType=0 ); /* IE6-9 */
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    width: 40px;
+}
+
+#utukendi {
+    color: #fff;
+    border: none;
+    padding: 8px 8px;
+    cursor: pointer;
+    margin: 15px 10px;
+    background: #DF371D; /* Old browsers */
+    background: -moz-linear-gradient(top, #DF371D 0%, #851908 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#DF371D), color-stop(100%,#851908)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #DF371D 0%,#851908 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #DF371D 0%,#851908 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #DF371D 0%,#851908 100%); /* IE10+ */
+    background: linear-gradient(top, #DF371D 0%,#851908 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#DF371D', endColorstr='#851908',GradientType=0 ); /* IE6-9 */
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    width: 40px;
+}
+
+#uincelea {
+    text-decoration: none;
+}
+
+.kate{
+    width: 150px;
+    height: 19px;
+    text-align: center;
+}
+#baslik {
+    background: url(images/ikonB.png) no-repeat left;
+    padding: 10px 20px;
+    color: #4f4f4f;
+    margin-top: -7px;
+}
+#ana {
+    float: right;
+    width: 1500px;
+    height: auto;
+    background-color: blue;
+    display: flex;
+}
+.urunfoto {
+    float: left;
+    width: 150px;
+    height: 300px;
+    background-color: red;
+}
+.urunad {
+    float: left;
+    margin-top: 50px;
+    width: 100px;
+    height: auto;
+    background-color: gray;
+}
+.urunaciklama{
+    margin-top: 100px;
+    width: 300px;
+    height: auto;
+    background-color: lightseagreen;
+}
+.urunfiyat {
+    margin-top: 10px;
+    width: 300px;
+    height: auto;
+    background-color: lightpink;
+}

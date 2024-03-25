@@ -1,0 +1,107 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#foto img {
+    height: 150px;
+    width: 150px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #444;
+    padding: 10px;
+}
+.a {
+    text-decoration: none; /* Alt çizgiyi kaldırma */
+    color: white; /* Link rengi */
+    margin-right: 10px;
+}
+
+    /* Ziyaret edilmiş link */
+    .a:visited {
+        color: lightgray; /* Ziyaret edilmiş link rengi */
+    }
+
+    /* Link üzerine gelindiğinde */
+    .a:hover {
+        text-decoration: underline; /* Alt çizgi ekleme */
+        color: lightgray; /* Link üzerine gelindiğindeki renk */
+    }
+
+    /* Tıklanan link durumu */
+    .a:active {
+        color: lightgray; /* Tıklanan link rengi */
+    }
+.c {
+    text-decoration: none; /* Alt çizgiyi kaldırma */
+    color: white; /* Link rengi */
+    margin-right: 10px;
+}
+
+    /* Ziyaret edilmiş link */
+    .c:visited {
+        color: lightgray; /* Ziyaret edilmiş link rengi */
+    }
+
+    /* Link üzerine gelindiğinde */
+    .c:hover {
+        text-decoration: underline; /* Alt çizgi ekleme */
+        color: lightgray; /* Link üzerine gelindiğindeki renk */
+    }
+
+    /* Tıklanan link durumu */
+    .c:active {
+        color: lightgray; /* Tıklanan link rengi */
+    }
+.auto-style2 {
+    width: 218px;
+}
+
+.auto-style3 {
+    width: 218px;
+    height: 20px;
+}
+
+.auto-style4 {
+    height: 20px;
+}
+
+.auto-style5 {
+    width: 218px;
+    height: 26px;
+}
+
+.auto-style6 {
+    height: 26px;
+}
+.buton-yesil {
+    color: #fff;
+    border: none;
+    padding: 8px 8px;
+    margin: 15px 10px;
+    background: #84c11c;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: auto;
+}

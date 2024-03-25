@@ -1,0 +1,21 @@
+﻿.c {
+    text-decoration: none; /* Alt çizgiyi kaldırma */
+    color: white; /* Link rengi */
+    margin-right: 10px;
+}
+
+    /* Ziyaret edilmiş link */
+    .c:visited {
+        color: lightgray; /* Ziyaret edilmiş link rengi */
+    }
+
+    /* Link üzerine gelindiğinde */
+    .c:hover {
+        text-decoration: underline; /* Alt çizgi ekleme */
+        color: lightgray; /* Link üzerine gelindiğindeki renk */
+    }
+
+    /* Tıklanan link durumu */
+    .c:active {
+        color: lightgray; /* Tıklanan link rengi */
+    }

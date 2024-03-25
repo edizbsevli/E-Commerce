@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="Eticaret.master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="stil.css" media="all"/>
+    <link rel="stylesheet" href="Admin Panel/masterstil.css" media="all"/>
+    <link rel="stylesheet" href="css/stil2.css" media="all"/>
+    <link rel="stylesheet" href="css/reset.css" media="all"/>
+<script src="js/jquery-1.8.3.js"></script>
+<script>
+    $(function () {
+        $("body").hide();
+        $("ul#kategoriler li:last").css({ "border-bottom": "none" });
+        $("ul#encoksatan li").css({ "list-style": "decimal" });
+        $("body").fadeIn("2000");
+
+
+    });
+</script>
+    <style type="text/css">
+        .auto-style2 {
+            width: 101px;
+            height: 601px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <header>
+           <div id="foto"><a href="default.aspx"><img src="images/logo.png" /></a></div>
+
+        <nav>
+
+            <a class="c" href="default.aspx">Anasayfa</a>
+            <a class="c" href="urunler.aspx">Ürünler</a>
+            <a class="c" href="hakkımızda.aspx">Hakkımızda</a>
+            <a class="c" href="KayıtOl.aspx">Kayıt Ol</a>
+            <a class="c" href="GirisYap.aspx">Giriş Yap</a>
+            <a class="c" href="sepett.aspx">Sepet</a>
+        </nav>
+        </header>
+	<div class="kate"><h2>Kategoriler</h2></div>
+	<ul id="kategoriler" class="auto-style2">
+		<asp:ListView ID="ListView1" runat="server">
+			<ItemTemplate> 
+				<li><a href="kategori.aspx?kategoriID=<%# Eval("kat_id") %>&kategoriAD=<%# Eval("kat_ad") %>"><%# Eval("kat_ad") %></a></li>
+			</ItemTemplate>
+		</asp:ListView>
+
+	</ul>
+
+        <footer>
+            &copy; 2024 E-Ticaret Mağazası
+        </footer>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

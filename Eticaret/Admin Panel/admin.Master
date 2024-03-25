@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="Eticaret.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="adminstil.css"/>
+    <link rel="stylesheet" type="text/css" href="masterstil.css"/>
+    <link rel="stylesheet" type="text/css" href="../stil.css" />
+    <link rel="stylesheet" type="text/css" href="../css/stil.css" />
+    <link rel="stylesheet" type="text/css" href="../css/stil2.css" />
+    <link rel="stylesheet" type="text/css" href="../css/reset.css" />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+         <header>
+            <div id="foto"><a href="admindefault.aspx"><img src="logo.png" /></a></div>
+
+            <nav>
+                    <a class="a" href="adminurun.aspx">Ürün İşlemleri</a>
+                    <a class="a" href="adminkategori.aspx">Kategori İşlemleri</a>
+                    <a class="a" href="roleklesil.aspx">Rol Ekleme/Silme</a>
+                    <a class="a" href="kullanicirol.aspx">Kullanıcı Rol</a>
+                    <a class="a" href="kullanicislem.aspx">Kullanıcı İşlemleri</a>
+
+            </nav>
+        </header>
+        <footer>
+    &copy; 2023 E-Ticaret Mağazası
+</footer>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
